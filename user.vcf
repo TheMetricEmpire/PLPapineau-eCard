@@ -7,7 +7,7 @@ ORG:Metric Empire Inc.;
 TITLE:Co-Founder & Design Director
 EMAIL;type=INTERNET;type=WORK;type=pref:pier-luc@metricempire.com
 TEL;type=WORK;type=VOICE:+1 (514) 974-0454
-item1.ADR;type=WORK;type=pref:;;5789 Avenue des Érables, Montréal, QC;;;H2G 2M2;Canada
+item1.ADR;type=WORK;type=pref:;;5789 Avenue des Erables, Montreal, QC;;;H2G 2M2;Canada
 item1.X-ABADR:sg
 item2.URL;type=pref:metricempire.com
 item2.X-ABLabel:_$!<HomePage>!$_
