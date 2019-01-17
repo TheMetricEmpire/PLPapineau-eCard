@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro');
+</style>
+
 html,
 body {
   height: 100%;
@@ -143,14 +147,14 @@ img.profile-pic {
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Maven Pro', sans-serif;
     font-weight: 400;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Maven Pro', sans-serif;
     font-weight: 200;
     color: #333333;
     font-size: 12px;
