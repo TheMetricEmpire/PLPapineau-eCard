@@ -145,21 +145,21 @@ img.profile-pic {
 .text-name {
     font-family: 'Maven Pro', sans-serif;
     font-weight: 500;
-    color: black;
+    color: #1A1A1A;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Maven Pro', sans-serif;
-    font-weight: 500;
-    color: black;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #1A1A1A;
     font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #1A1A1A;
     font-size: 12px;
 }
 
